@@ -22,3 +22,4 @@ jobs:
           "ref": "refs/tags/$new",
           "sha": "$commit"
         }
+        EOF
